@@ -1,0 +1,41 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .dark {
+    background-color: #333;
+    color: #fff;
+  }
+  .light {
+    background-color: #fff;
+    color: #333;
+  }
+
+/* @layer components {
+    #header {
+        @apply relative flex items-center justify-center
+               h-12 w-12 mt-2 mb-2 mx-auto shadow-lg
+               bg-gray-800 text-yellow-200
+               hover:bg-white;
+    }
+} */
+
+
+/* header {
+    height: 18vh;
+}
+
+#name {
+    display: flex;
+    justify-content: baseline;
+}
+
+li {
+    display: flex;
+    justify-content: end;
+} */
