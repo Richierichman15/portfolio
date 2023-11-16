@@ -11,7 +11,7 @@ const projectData = [
       name: "Dream Cars",
       description: "This was a group project with 3 other members involved. We divided the work in sections of what needed to be done. The project is a ecommerce for finding your dream car. Challenges we faced was finding the right api with our project. First API wouldn't respond with our database. End up using backend mockdata to use for our page.",
       imageUrl: dream,
-      projectUrl: ""
+      projectUrl: "https://github.com/Debug-Thugs-2211/Dream-cars"
   },
   {
       name: "Recipe Finder",
@@ -23,7 +23,7 @@ const projectData = [
       name: "Fitness Tracker",
       description: "This project leveraged a tech stack comprising Node.js, Express, and React to create a comprehensive fitness tracker application. Node.js and Express formed the backend, enabling data storage and user authentication, while React powered the dynamic and responsive front-end interface. The result was a user-friendly fitness tracker allowing users to log workouts, track progress, and set fitness goals seamlessly. ",
       imageUrl: fitness,
-      projectUrl: "",
+      projectUrl: "https://github.com/Richierichman15/Fitness-Tracker",
 
   }
 ];

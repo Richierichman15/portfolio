@@ -12,11 +12,7 @@ const Header = () => {
     return(
             <header className="bg-gray-800 p-4">
               <div className="flex items-center">
-                <img
-                  src={logo}
-                  alt="Logo"
-                  className="w-14 h-10 rounded-full"
-                />
+                <h1 className="w-10 h-10 rounded-full text-white" >Gitonga Nyaga</h1>
                 {/* <div className={`App ${isDarkMode ? 'dark-mode' : ''}`}>
                   <button onClick={toggleDarkMode}>Dark Mode</button>
                 </div> */}

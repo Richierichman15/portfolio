@@ -31,7 +31,7 @@ const Home = () => {
             <div class="grid grid-cols-2 md:grid-cols-4 gap-8 ">
                 <div class="text-center w-20 h-20">
                     <img src={Do} alt="logo" class="mx-auto mb-4" />
-                    <p>React</p>
+                    <p>React.js</p>
                 </div>
 
                 <div class="text-center w-20 h-20">
